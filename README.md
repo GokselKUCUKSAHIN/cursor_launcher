@@ -8,6 +8,8 @@
 
 Cursor Launcher is a simple tool that allows you to run Cursor directly from the command line. With this installation, you can start Cursor by just using the `cursor` command in your terminal.
 
+> ⚠️ **Note:** This tool currently works only on macOS systems.
+
 ## 🚀 Installation
 
 Install Cursor Launcher by running the following command in your terminal:
